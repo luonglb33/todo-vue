@@ -1,5 +1,6 @@
 # demo-vue
 
+Link app demo: https://todo-demo-vue-smartosc.netlify.app/
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
